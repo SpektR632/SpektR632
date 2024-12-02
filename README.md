@@ -1,8 +1,5 @@
-<div>
-    <center>
-        <img src="https://github.com/user-attachments/assets/d6748a9c-8991-4aaf-a54c-b0298e2529da" width="320" height="510">
-    </center>
-</div>
+<img align="middle" src="https://github.com/user-attachments/assets/d6748a9c-8991-4aaf-a54c-b0298e2529da" width="320" height="510">
+
 <div  id="header" align="center">
     <h1>Привет, меня зовут Роман!</h1>
     <h3>Python-разработчик
