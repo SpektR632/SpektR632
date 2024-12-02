@@ -1,15 +1,18 @@
 <div  id="header" align="center">
     <h1>Привет, меня зовут Роман!</h1>
     <h3>Python-разработчик</h3>
-    <a href="t.me/OzoGg" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-        width="15" alt="Telegram"/>
-    </a>
-    <a href="spektr.632@yandex.ru">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
-        width="15" alt="Почта"/>
-    </a>
-    
+    <h4>
+    <p>Связаться со мной
+        <a href="t.me/OzoGg" >
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+            width="15" alt="Telegram"/>Telegram
+        </a>
+        <a href="spektr.632@yandex.ru">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
+            width="15" alt="Почта"/>Почта
+        </a>
+    </p>
+    </h4>
 </div>
 
 
