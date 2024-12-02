@@ -1,18 +1,16 @@
 <div  id="header" align="center">
     <h1>Привет, меня зовут Роман!</h1>
-    <h3>Python-разработчик
+    <h3>Python-разработчик</h3>
     <a href="t.me/OzoGg" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
         width="15" alt="Telegram"/>
     </a>
-    </h3>
-</div>
-
-
-<div align="center">
+    <a href="spektr.632@yandex.ru">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
+        width="15" alt="Почта"/>
+    </a>
     
 </div>
-
 
 
 ## Я являюсь дипломированным Python-разработчиком с опытом работы в следующих направлениях:
@@ -53,4 +51,4 @@
 - FastAPI - https://github.com/SpektR632/Web_FastAPI_project
 
 
-## __Я уверен в своих навыках и готов применить свои знания для решения поставленных задач в команде профессионалов.__
+### __Я уверен в своих навыках и готов применить свои знания для решения поставленных задач в команде профессионалов.__
