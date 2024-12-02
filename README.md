@@ -1,15 +1,16 @@
-<div style="display: flex;">
+<div id="header" align="center">
     <img src="https://github.com/user-attachments/assets/d6748a9c-8991-4aaf-a54c-b0298e2529da" width="320" height="510">
-    <div style="flex;"  align="center">
-        <h1>Привет, меня зовут Роман!</h1>
-        <h3>Python-разработчик
-        <a href="t.me/OzoGg" >
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-            width="15" alt="Telegram"/>
-        </a>
-        </h3>
-    </div>
 </div>
+<div  id="header" align="center">
+    <h1>Привет, меня зовут Роман!</h1>
+    <h3>Python-разработчик
+    <a href="t.me/OzoGg" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+        width="15" alt="Telegram"/>
+    </a>
+    </h3>
+</div>
+
 
 <div align="center">
     
