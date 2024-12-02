@@ -1,6 +1,13 @@
-<div id="header" align="center">
-    <img src="https://github.com/user-attachments/assets/d6748a9c-8991-4aaf-a54c-b0298e2529da" width="320" height="510">
+<div>
+    <p class="aligncenter">
+        <img src="https://github.com/user-attachments/assets/d6748a9c-8991-4aaf-a54c-b0298e2529da" width="320" height="510">
+    </p>
 </div>
+<style>
+    .aligncenter {
+        text-align: center;
+    }
+</style>
 <div  id="header" align="center">
     <h1>Привет, меня зовут Роман!</h1>
     <h3>Python-разработчик
