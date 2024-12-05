@@ -3,11 +3,11 @@
     <h3>Python-разработчик</h3>
     <h4>
     <p>Связаться со мной
-        <a href="t.me/OzoGg" >
+        <a href="https://t.me/SpektR632" >
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
             width="15" alt="Telegram"/>Telegram
         </a>
-        <a href="spektr.632@yandex.ru">
+        <a href="https://mail.yandex.ru/?uid=102566714#tabs/relevant">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
             width="15" alt="Почта"/>Почта
         </a>
