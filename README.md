@@ -2,23 +2,16 @@
     <h1>Привет, меня зовут Роман!</h1>
     <h3>Python-разработчик</h3>
     <h4>
-    <p>Связаться со мной</p>
+    <p>Связаться со мной
         <a href="https://t.me/SpektR632" >
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
             width="15" alt="Telegram"/>Telegram
         </a>
-            <div class="dropdown">
-                <button class="drop-btn">Почта🢓</button>
-                    <div class="dropdown-content">
-                        <input type="text" value="spektr.632@yandex.ru" id="myInput" readonly>
-                <button onclick="copyLink()">Скопировать</button>
-                    </div>
-            </div>
-        <a href="https://mail.yandex.ru/?uid=102566714#tabs/relevant">
+        <a href="mailto:spektr.632@yandex.ru">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
             width="15" alt="Почта"/>Почта
         </a>
-    
+    </p>
     </h4>
 </div>
 
