@@ -7,7 +7,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
             width="15" alt="Telegram"/>Telegram
         </a>
-        <a href="[http://spektr.632@yandex.ru](https://mail.yandex.ru/?uid=102566714#tabs/relevant)">
+        <a href="https://mail.yandex.ru/?uid=102566714#tabs/relevant">
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg"
             width="15" alt="Почта"/>Почта
         </a>
