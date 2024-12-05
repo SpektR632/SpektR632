@@ -3,7 +3,7 @@
     <h3>Python-разработчик</h3>
     <h4>
     <p>Связаться со мной
-        <a href="http://t.me/OzoGg" >
+        <a href="https://t.me/SpektR632" >
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
             width="15" alt="Telegram"/>Telegram
         </a>
